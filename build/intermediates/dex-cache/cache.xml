@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\46e81f7f13be263d5a5817a126d93149e653f2b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\Statebar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d96cf3a5eb80dcc045381092b7e1e826cec4243c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Statebar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c1ccf1a513f21f2ee4e88e101c7bd9b291002067">
+        <dex dex="F:\Statebar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5256ba30643e37495125bb834091d108de32b028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Statebar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Statebar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6105a82542926fe9b81490976d21fc5b30bc90ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\74f5168305cb108ea01297e5d7c79fc1c3fc79a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\Statebar\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_265f0b6c657c481aac4553f9e5d372fea813c145\classes.dex" />
+    </item>
+
+</items>
